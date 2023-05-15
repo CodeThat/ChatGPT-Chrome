@@ -1,2 +1,2 @@
 # ChatGPT-Chrome
-ChatGPT browser externsion for chunked file uploading
+ChatGPT browser extension for chunked file uploading
