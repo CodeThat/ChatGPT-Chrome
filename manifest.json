@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Upload Button Extension",
+    "version": "1.0",
+    "description": "Adds a green download button to the page",
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": ["content.js"]
+      }
+    ],
+    "permissions": [
+      "activeTab"
+    ]
+  }
+  
